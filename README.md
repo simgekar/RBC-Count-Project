@@ -9,7 +9,7 @@
 
 <div id="english"></div>
 
-## 🇬🇧 Automated Red Blood Cell (RBC) Counting
+## ENG Automated Red Blood Cell (RBC) Counting
 
 This MATLAB project is designed to automatically detect and count Red Blood Cells (RBCs) from microscopic blood smear images. It utilizes various image processing techniques to enhance image quality, segment cells, and perform counting using the Circular Hough Transform.
 
